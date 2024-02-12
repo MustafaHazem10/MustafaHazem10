@@ -18,7 +18,7 @@
 
 ### Connect with Me :
 
-<a href="https:https://www.linkedin.com/in/karim-roshdy-77313125b" target="_blank"><img src="https://img.shields.io/badge/-Karim%20roshdy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/karim-roshdy-77313125b" target="_blank"><img src="https://img.shields.io/badge/-Karim%20roshdy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/Karim_Roshdy77" target="_blank"><img src="https://img.shields.io/badge/-Karim%20Roshdy-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
