@@ -18,7 +18,7 @@
 
 ### Connect with Me :
 
-<a href="www.linkedin.com/in/moustafa-hazem-880553294" target="_blank"><img src="https://img.shields.io/badge/-Mustafa%20hazem-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/moustafa-hazem-880553294/" target="_blank"><img src="https://img.shields.io/badge/-Mustafa%20hazem-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/mustafa.safi.395" target="_blank"><img src="https://img.shields.io/badge/-Mustafa%20hazem-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
 
