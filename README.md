@@ -1,7 +1,7 @@
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
-  Welcome to Omar Hazem's profile!
+  Welcome to Mustafa Hazem's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -18,8 +18,8 @@
 
 ### Connect with Me :
 
-<a href="http://www.linkedin.com/in/omar-hazem-ab1474263" target="_blank"><img src="https://img.shields.io/badge/-Omar%20hazem-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/omer.hazim.9026" target="_blank"><img src="https://img.shields.io/badge/-Omar%20hazem-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="www.linkedin.com/in/moustafa-hazem-880553294" target="_blank"><img src="https://img.shields.io/badge/-Mustafa%20hazem-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/mustafa.safi.395" target="_blank"><img src="https://img.shields.io/badge/-Mustafa%20hazem-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
 
 
